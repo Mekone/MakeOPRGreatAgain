@@ -5,9 +5,7 @@
 // @updateURL    https://github.com/jqqqqqqqqqq/MakeOPRGreatAgain/raw/master/MakeOPRGreateAgain.user.js
 // @downloadURL  https://github.com/jqqqqqqqqqq/MakeOPRGreatAgain/raw/master/MakeOPRGreateAgain.user.js
 // @author       jqqqqqqqqqq
-// @match        https://opr.ingress.com/recon
-// @match        https://opr.ingress.com/
-// @match        https://opr.ingress.com/?login=true*
+// @match        https://opr.ingress.com/*
 // @require      https://code.jquery.com/jquery-3.2.1.min.js
 // @grant        none
 // ==/UserScript==
